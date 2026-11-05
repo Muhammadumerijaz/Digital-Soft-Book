@@ -1,5 +1,17 @@
 # 📘 Digital Soft Book
 
+
+<img width="250" height="500" alt="0" src="https://github.com/user-attachments/assets/40d39876-5ed1-4a27-8c64-a5f5e3e99440" />
+<img width="250" height="500" alt="1" src="https://github.com/user-attachments/assets/cc2bc048-9e78-4e99-9ee1-cf4c853974fc" />
+<img width="250" height="500" alt="5" src="https://github.com/user-attachments/assets/6fed027e-0375-41cb-a049-65dcb5152910" />
+<img width="250" height="500" alt="4" src="https://github.com/user-attachments/assets/e5737136-e948-4e9e-a0f6-46c70eca83e6" />
+<img width="250" height="500" alt="3" src="https://github.com/user-attachments/assets/b313ec4b-67eb-4fa1-b5e4-05f79e0b3ab3" />
+<img width="250" height="500" alt="6" src="https://github.com/user-attachments/assets/3d3e3ef9-22fc-47a0-90ca-a0b5882c0909" />
+
+
+
+
+
 ### A simple, profile-based digital khata for tracking money given and received.
 
 **Keep every account organised. Understand balances at a glance.**
@@ -207,8 +219,8 @@ that matches the author's intent.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-**Digital Soft Book --- a clearer view of your everyday khata.**
 
-Made with care by **Soft Vibe Tech**.
+**Digital Soft Book ---**
+
+Copyright **Soft Vibe Tech**.
 :::
