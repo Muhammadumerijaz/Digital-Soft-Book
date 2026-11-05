@@ -25,7 +25,7 @@ Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?logo=jetpackco
 [Get the Download APP](https://github.com/Muhammadumerijaz/Digital-Soft-Book/blob/main/Digital%20Soft%20Book_1.0%20(1)%20(1).apk) 
 [Source code](https://github.com/Muhammadumerijaz/Digital-Soft-Book) ·
 [Project page](https://softvibetech.itch.io/digital-soft-book)
-[Get the APK] (https://github.com/Muhammadumerijaz/Digital-Soft-Book)
+[Get the APK](https://github.com/Muhammadumerijaz/Digital-Soft-Book)
 :::
 
 ------------------------------------------------------------------------
