@@ -1,0 +1,6 @@
+{
+  "name": "Digital Soft Book",
+  "description": "An application to track money given and received from different people or accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
