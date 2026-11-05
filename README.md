@@ -1,4 +1,3 @@
-::: {align="center"}
 # 📘 Digital Soft Book
 
 ### A simple, profile-based digital khata for tracking money given and received.
